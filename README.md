@@ -19,3 +19,6 @@ Some of the topics that are covered are:
   - Recursion
   - Dynamic Programming 
   - OO Design
+  - Sorting - Merge Sort and Quick Sort
+  - Binary Search
+  - BFS and DFS
